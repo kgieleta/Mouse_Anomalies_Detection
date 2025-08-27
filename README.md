@@ -3,6 +3,7 @@
 The **Balabit Mouse Dynamics Challenge** dataset contains raw mouse movement logs within sessions: *timestamp*, cursor position, and button state. The data is split into **training** and **test** parts.  
 The training set comprises session subsets for ten users (IDs: 7, 9, 12, 15, 16, 20, 21, 23, 29, 35); each session belongs to its corresponding user.  
 In the test set, some sessions were performed by **unauthorized** users; labels for a subset of these sessions are provided in a CSV file — this was used to construct the test set in the project.
+Project was carried out by team of 2 people. 
 
 ---
 
